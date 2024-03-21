@@ -1,0 +1,2 @@
+MONGO_URI=mongodb://user:password@server:27017
+MONGO_DB=test
