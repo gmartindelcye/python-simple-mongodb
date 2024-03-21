@@ -12,7 +12,7 @@ pdm install
 
 ## Configure
 
-- Copy env-example to .env and update the values
+- Copy `env-example` to `.env` and update the values
 
 ## Run
 
